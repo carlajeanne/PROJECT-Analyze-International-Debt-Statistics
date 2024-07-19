@@ -4,16 +4,16 @@ Humans not only take debts to manage necessities. A country may also take debt t
 
 In this project, you are going to analyze international debt data collected by The World Bank. The dataset contains information about the amount of debt (in USD) owed by developing countries across several categories.
 ### `international_debt`
--country_name  
--country_code  
--indicator_name  
--indicator_code  
--debt
+- `country_name`
+- `country_code`
+- `indicator_name`
+- `indicator_code`
+- `debt`
 
 
 
 ## Goal
-Based on the given data, the goal is to analyze international debt data collected by The World Bank.
+Based on the given data, the goal is to analyze international debt data collected by The World Bank using PostgreSQL.
 
 ## Tasks
 - What is the number of distinct countries present in the database?
